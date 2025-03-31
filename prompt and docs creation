@@ -1,4 +1,4 @@
-Create a website for an startup to manage there order and pick up and delivery 
+Create a website for an startup to manage there orders and employee and pick up and delivery 
 
 
 franchises & delivery 
@@ -26,8 +26,12 @@ Admin :-
     3.  Management of orders allocate repairing to employee and allocate delivery to delivery boy
     4.  if pickup or repairing request raised by the user it will be visible on shops dashboard shop will auto accept it if
           not manually available then in 5 to 15 minutes auto accept will proceed.
-    5. 
-
+    5.  if any driver status is Open then delivery gets auto allotted to driver if driver is on duty. and admin can change delivery boy
+           allotted. until he does not started his journey
+    6. Delivery/pickup link will be shared with delivery boy 
+    7.  Then shop Admin will allot repairing of  to technicians
+    
+ 
 Employee :- 
       1.  Employee will login through a link by OTP verification with mobile no which also records his time on website if 30 minutes
 of inactivity he automatically gets log out 
@@ -36,3 +40,14 @@ off duty.  attendance will be caught by on duty and off duty hours
       3.  then if repairing is assigned to them they will see it on there dashboard >> technician  accept it >> started repairing  >> find issue >>
 issue submission >> Add parts required >> Issue resolution >> submit request of repaired phone to admin 
       4. Flow of application is as below 
+
+
+Delivery :-
+       
+       1.  Delivery will login through a link by OTP verification with mobile no which also records his time on website if 30 minutes
+of inactivity he automatically gets log out .
+        2.  Delivery Duty hours will be count based on there activity on application where after login they will select On duty, break,
+off duty. attendance will be caught by on duty and off duty hours
+        3.  then if Pickup/Delivery is assigned to them they will see it on there dashboard >> Delivery agent accept it >> start his journey >> pickup or delivered >>
+Confirm with user OTP  >>  >> Confirm Delivery >> store reporting
+         4.
