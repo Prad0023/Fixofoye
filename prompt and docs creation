@@ -30,6 +30,7 @@ Admin :-
            allotted. until he does not started his journey
     6. Delivery/pickup link will be shared with delivery boy 
     7.  Then shop Admin will allot repairing of  to technicians
+    8. CAN view EMployees leave, and payroll and othere related things
     
  
 Employee :- 
@@ -40,6 +41,7 @@ off duty.  attendance will be caught by on duty and off duty hours
       3.  then if repairing is assigned to them they will see it on there dashboard >> technician  accept it >> started repairing  >> find issue >>
 issue submission >> Add parts required >> Issue resolution >> submit request of repaired phone to admin 
       4. Flow of application is as below 
+    5.   Can apply for leave 
 
 
 Delivery :-
